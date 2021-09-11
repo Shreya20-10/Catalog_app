@@ -1,0 +1,68 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "iPhone 12 Pro",
+        "desc": "Apple iPhone 12th generation",
+        "price": 999,
+        "color": "#33505a",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-family-hero?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1604021663000"
+      },
+      {
+        "id": 2,
+        "name": "Pixel 5",
+        "desc": "Google Pixel phone 5th generation",
+        "price": 699,
+        "color": "#00ac51",
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-60399/google_pixel_5_frontback.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "M1 Macbook Air",
+        "desc": "Apple Macbook air with apple silicon",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image": "https://cdn.pocket-lint.com/r/s/1200x/assets/images/155111-laptops-review-apple-macbook-air-review-m1-late-2020-it-s-getting-better-all-the-time-image2-izimkjs56z.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Playstation 5",
+        "desc": "Sony Playstation 5th generation",
+        "price": 500,
+        "color": "#544ee4",
+        "image": "https://i.gadgets360cdn.com/products/large/sony-ps5-649x800-1592631239.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "iPad Pro",
+        "desc": "Apple iPad Pro 2020 edition",
+        "price": 799,
+        "color": "#f73984",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41DIPKZIN5L._SY445_SX342_QL70_ML2_.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Airpods Pro",
+        "desc": "Apple Airpods Pro 1st generation",
+        "price": 200,
+        "color": "#e3e4e9",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1591634795000"
+      },
+      {
+        "id": 7,
+        "name": "Galaxy S21 Ultra",
+        "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+        "price": 1299,
+        "color": "#1c1c1c",
+        "image": "https://www.gizmochina.com/wp-content/uploads/2020/11/Samsung-Galaxy-S21-Ultra-5G-500x500.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Galaxy S21",
+        "desc": "Samsung Galaxy S21 2021 edition",
+        "price": 1000,
+        "color": "#7c95eb",
+        "image": "https://www.mytrendyphone.eu/images/Samsung-Galaxy-S21-5G-128GB-Phantom-Grey-8806090892776-18012021-01-p.jpg"
+      }
+    ]
+}
